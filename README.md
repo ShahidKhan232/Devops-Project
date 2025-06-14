@@ -17,6 +17,16 @@ This project demonstrates the deployment of the classic Super Mario game on AWS 
 - **Scalability**: Leverage Kubernetes for automatic scaling and high availability
 - **Learning Experience**: Provide hands-on experience with modern DevOps tools and practices
 
+## 📸 Screenshots
+
+Below are screenshots demonstrating the deployment and running of Super Mario on Kubernetes using Terraform:
+
+![Super Mario Screenshot 1](image%201.png)
+![Super Mario Screenshot 2](image%202.png)
+![Super Mario Screenshot 3](image%203.png)
+![Super Mario Screenshot 4](image%204.png)
+![Super Mario Screenshot 5](image%205.png)
+
 ## 🛠️ Methodology
 
 The project follows a systematic approach to deploy the Super Mario game on Kubernetes:
@@ -190,6 +200,8 @@ kubectl describe service mario-service
 #### Step 6: Access the Game
 
 Copy the Load Balancer Ingress URL from the service description and paste it into your web browser to play Super Mario!
+
+![Super Mario Screenshot 1](image%201.png)
 
 ### Cleanup Instructions
 
