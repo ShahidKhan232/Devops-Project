@@ -7,7 +7,7 @@ This repository contains a collection of DevOps projects demonstrating various c
 This main repository includes the following projects as Git subtrees:
 
 ### 🎮 [Super Mario Kubernetes Deployment](./super-mario-kubernetes/)
-**Repository**: [Deployment-of-super-Mario-on-Kubernetes-using-terraform](https://github.com/ShahidKhan232/Deployment-of-super-Mario-on-Kubernetes-using-terraform.git)
+**Integrated Project** - Originally from: Deployment-of-super-Mario-on-Kubernetes-using-terraform
 
 A complete infrastructure-as-code solution for deploying the classic Super Mario game on Kubernetes using Terraform. This project demonstrates:
 - Terraform infrastructure provisioning
@@ -16,7 +16,7 @@ A complete infrastructure-as-code solution for deploying the classic Super Mario
 - Game application containerization
 
 ### 🎯 [2048 Game on Amazon EKS](./2048-game-eks/)
-**Repository**: [Deploying-2048-Game-App-on-Amazon-EKS](https://github.com/ShahidKhan232/Deploying-2048-Game-App-on-Amazon-EKS.git)
+**Integrated Project** - Originally from: Deploying-2048-Game-App-on-Amazon-EKS
 
 Implementation of the popular 2048 game deployed on Amazon Elastic Kubernetes Service (EKS). This project showcases:
 - Amazon EKS cluster setup
@@ -25,7 +25,7 @@ Implementation of the popular 2048 game deployed on Amazon Elastic Kubernetes Se
 - AWS cloud-native deployment patterns
 
 ### 📦 [Shipment Tracking Microservices](./shipment-tracking-microservices/)
-**Repository**: [Shipment-Tracking-System-STS-Micorservices-Deployment](https://github.com/ShahidKhan232/Shipment-Tracking-System-STS-Micorservices-Deployment-.git)
+**Integrated Project** - Originally from: Shipment-Tracking-System-STS-Micorservices-Deployment
 
 A comprehensive microservices-based shipment tracking system demonstrating enterprise-grade application deployment. Features include:
 - Microservices architecture
