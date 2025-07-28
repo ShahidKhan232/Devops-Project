@@ -32,7 +32,7 @@ A comprehensive microservices-based shipment tracking system demonstrating enter
 - Service-to-service communication
 - Database integration
 - Monitoring and logging solutions
-- CI/CD pipeline implementation
+  
 
 ### 🐳 [Django App Deployment using ECS](./Project%205-%20Django%20app%20Deployment%20using%20ECS/)
 **Integrated Project** - Django web application deployment on AWS using containerization
